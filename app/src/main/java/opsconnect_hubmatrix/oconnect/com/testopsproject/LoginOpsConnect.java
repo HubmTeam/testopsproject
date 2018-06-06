@@ -14,6 +14,6 @@ public class LoginOpsConnect extends AppCompatActivity{
 
 		TextView txt = findViewById(R.id.txt);
 		txt.setText("Welcome Login Ops jbjh  gvjhsgvjs ");
-		Toast.makeText(getApplicationContext(), " Hello Login  ", Toast.LENGTH_LONG).show();
+		Toast.makeText(getApplicationContext(), " Hello Login  cscSXaXX ", Toast.LENGTH_LONG).show();
 	}
 }
