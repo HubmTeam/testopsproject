@@ -13,7 +13,7 @@ public class LoginOpsConnect extends AppCompatActivity{
 		setContentView(R.layout.activity_main);
 
 		TextView txt = findViewById(R.id.txt);
-		txt.setText("Welcome Login Ops Connect");
+		txt.setText("Welcome Login Ops jbjh  gvjhsgvjs ");
 		Toast.makeText(getApplicationContext(), " Hello Login  ", Toast.LENGTH_LONG).show();
 	}
 }
