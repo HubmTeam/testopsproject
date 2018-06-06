@@ -3,6 +3,7 @@ package opsconnect_hubmatrix.oconnect.com.testopsproject;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -13,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
 		TextView txt = findViewById(R.id.txt);
 		txt.setText("Welcome to Github");
+		Toast.makeText(getApplicationContext(), " Hello cvdjhvcghvccghc ", Toast.LENGTH_LONG).show();
 	}
 }
