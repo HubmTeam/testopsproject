@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 		setContentView(R.layout.activity_main);
 
 		TextView txt = findViewById(R.id.txt);
-		txt.setText("Welcome to Github");
+		txt.setText("Welcome android studio");
 		Toast.makeText(getApplicationContext(), " Hello cvdjhvcghvccghc ", Toast.LENGTH_LONG).show();
 	}
 }
